@@ -203,8 +203,8 @@ I could not find enough information in the indexed documents to answer that.
 
 ## Author
 
-**Amit Ashish**  
-25CSM2S11
+**FewShot**
+
 
 ## License
 
